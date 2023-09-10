@@ -1,3 +1,4 @@
+Sure, here's a concise GitHub README for your Content-Based and Collaborative Filtering movie recommendation project:
 
 ---
 
@@ -39,3 +40,5 @@ The project includes example usage with user input, demonstrating both Content-B
 The project displays the top recommended movies based on both Content-Based and Collaborative Filtering methods.
 
 ---
+
+You can expand on each section and provide more details as needed for your project's README.
